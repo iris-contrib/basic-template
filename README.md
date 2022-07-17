@@ -1,6 +1,6 @@
 # Project_Name
 
-[![build status](https://img.shields.io/travis/iris-contrib/basic-template/master.svg?style=for-the-badge&logo=travis)](https://travis-ci.org/iris-contrib/basic-template) [![report card](https://img.shields.io/badge/report%20card-a%2B-ff3333.svg?style=for-the-badge)](https://goreportcard.com/report/github.com/iris-contrib/basic-template)
+[![build status](https://img.shields.io/github/workflow/status/iris-contrib/basic-template/CI/main?style=for-the-badge)](https://github.com/iris-contrib/basic-template/actions) [![report card](https://img.shields.io/badge/report%20card-a%2B-ff3333.svg?style=for-the-badge)](https://goreportcard.com/report/github.com/iris-contrib/basic-template)
 
 Project_Description.
 
